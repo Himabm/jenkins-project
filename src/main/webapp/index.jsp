@@ -425,10 +425,11 @@
             <span class="tag">Completed</span>
           </div>
         </div>
-    <div class="status-item">
+   
+      <div class="status-item">
             <div class="date">July 10, 2025</div>
             <div class="content">
-              Successfully Storing Artifacts in the Nexus Repository
+              Testing to Build file
             </div>
             <span class="tag">Completed</span>
           </div>
