@@ -441,6 +441,14 @@
             <span class="tag">Completed</span>
           </div>
          </div>
+     <div class="status-item">
+            <div class="date">July 13, 2025</div>
+            <div class="content">
+              Artifact using Nexus
+            </div>
+            <span class="tag">Completed</span>
+          </div>
+         </div>
      </div>
     </div>
   </body>
