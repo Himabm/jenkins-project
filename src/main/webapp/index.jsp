@@ -449,6 +449,14 @@
             <span class="tag">Completed</span>
           </div>
          </div>
+     <div class="status-item">
+            <div class="date">July 24, 2025</div>
+            <div class="content">
+              Jenkins End to End 
+            </div>
+            <span class="tag">Completed</span>
+          </div>
+         </div>
      </div>
     </div>
   </body>
